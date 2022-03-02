@@ -1,0 +1,15 @@
+C:\Users\Rendell\source\repos\Udemy Course\Windows_Form_App\Music Player\Music Player\bin\Debug\Music Player.exe.config
+C:\Users\Rendell\source\repos\Udemy Course\Windows_Form_App\Music Player\Music Player\bin\Debug\Music Player.exe
+C:\Users\Rendell\source\repos\Udemy Course\Windows_Form_App\Music Player\Music Player\bin\Debug\Music Player.pdb
+C:\Users\Rendell\source\repos\Udemy Course\Windows_Form_App\Music Player\Music Player\obj\Debug\Music Player.csproj.AssemblyReference.cache
+C:\Users\Rendell\source\repos\Udemy Course\Windows_Form_App\Music Player\Music Player\obj\Debug\Music_Player.Form1.resources
+C:\Users\Rendell\source\repos\Udemy Course\Windows_Form_App\Music Player\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\Users\Rendell\source\repos\Udemy Course\Windows_Form_App\Music Player\Music Player\obj\Debug\Music Player.csproj.GenerateResource.cache
+C:\Users\Rendell\source\repos\Udemy Course\Windows_Form_App\Music Player\Music Player\obj\Debug\Music Player.csproj.CoreCompileInputs.cache
+C:\Users\Rendell\source\repos\Udemy Course\Windows_Form_App\Music Player\Music Player\obj\Debug\Music Player.exe
+C:\Users\Rendell\source\repos\Udemy Course\Windows_Form_App\Music Player\Music Player\obj\Debug\Music Player.pdb
+C:\Users\Rendell\source\repos\Udemy Course\Windows_Form_App\Music Player\Music Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Rendell\source\repos\Udemy Course\Windows_Form_App\Music Player\Music Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Rendell\source\repos\Udemy Course\Windows_Form_App\Music Player\Music Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Rendell\source\repos\Udemy Course\Windows_Form_App\Music Player\Music Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Rendell\source\repos\Udemy Course\Windows_Form_App\Music Player\Music Player\obj\Debug\Music Player.csproj.ResolveComReference.cache
